@@ -36,7 +36,6 @@ public class paymentauth {
     if (check(u, p)) {
       System.out.println("Payment authorized");
       System.out.println("Payment authorized");
-      System.out.println("Payment authorized");
     }
   }
 }
