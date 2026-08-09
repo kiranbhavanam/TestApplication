@@ -35,7 +35,6 @@ public class paymentauth {
   public void process(String u, String p) {
     if (check(u, p)) {
       System.out.println("Payment authorized");
-      System.out.println("Payment authorized");
     }
   }
 }
