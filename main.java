@@ -11,7 +11,7 @@ public class Main {
                 1299.99
         );
 
-        orderService.placeOrder(order);
+        orderService.placeOrder(order)
 
         System.out.println("Application started.");
     }
